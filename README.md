@@ -18,5 +18,3 @@ Untuk pewarisan, kelas Karakter akan menurunkan sifat ke kelas KarakterPlayer (K
 Lalu untuk komposit, bisa dilihat sebagai berikut :
 -	Pemain akan memiliki KarakterPlayer
 -	KarakterPlayer akan memiliki Role dan Item
-
-Hasil Eksekusi :
